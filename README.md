@@ -43,7 +43,7 @@ Ce repository documente un certaine vision de SCRUM. Il est issu de discussions 
 ### Artefacts
 
 - Backlog
-    - Types d'items
+    - [Types d'items](types-items.md)
         - User story
         - Task
         - Apprentissages
@@ -65,3 +65,8 @@ Ce repository documente un certaine vision de SCRUM. Il est issu de discussions 
     - Créer un nouveau "project" pour le sprint
     - Décider du début, fin, lieu et heure de la daily, lieu et date/heure de la démo+rétro, objectif
     - Fermer le "project" à la fin
+
+
+## Considérations connexes
+
+- [Les estimations](estimations.md)
