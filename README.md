@@ -69,4 +69,5 @@ Ce repository documente un certaine vision de SCRUM. Il est issu de discussions 
 
 ## Considérations connexes
 
+- [Réunion de plannification](plannification.md)
 - [Les estimations](estimations.md)
