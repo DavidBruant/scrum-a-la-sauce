@@ -1,5 +1,7 @@
 # Lean startup
 
+## Introduction 
+
 La méthodologie "Lean Startup" est une façon de s'organiser et de prioriser le travail quand on est en contexte d'innovation (problème et solution mal connus) avec des ressources très contraintes
 
 Un des outils clefs, c'est la boucle "Build Measure Learn"
@@ -18,8 +20,7 @@ Lean startup invite à faire différentes séparations :
 - ce qui est un problème / ce qui est une solution
 
 
-
-## Exemple
+### Exemple
 
 **Problème** : Mes jeans se déchirent à l'entre-jambe
 
@@ -29,3 +30,9 @@ Lean startup invite à faire différentes séparations :
 - Apprendre à coudre et réparer moi-même
 
 ... mais **ptèt que ce n'est pas un problème** et que je trouve ça stylé !
+
+
+## Mise en place
+
+
+Lean Canvas
