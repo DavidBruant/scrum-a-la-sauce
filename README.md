@@ -31,7 +31,7 @@ Identifier clairement qui est dans quel.s rôle.s
 
 **Sprints** : période de temps plutôt courte (par exemple 2 semaines) pendant laquelle un travail a lieu et l'équipe se réunit à la fin pour discuter de ce qui a eu lieu et comment s'améliorer les sprints suivants
 
-**Retrospective** : discussion de fin de sprint. Typiquement uniquement entre l'équipe de production et le.a Product Owner. Exemple de structure:
+**[Retrospective](retrospective.md)** : discussion de fin de sprint. Typiquement uniquement entre l'équipe de production et le.a Product Owner. Exemple de structure :
 - Météo/check-in/humeur d'entrée
 - Vécu du sprint (factuel, pas de jugement)
 - Vécus positifs
